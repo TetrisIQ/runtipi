@@ -1,3 +1,3 @@
 echo '{ 
-    "appsRepoUrl": "https://github.com/meienberger/runtipi-appstore.git\",
+    "appsRepoUrl": "https://github.com/meienberger/runtipi-appstore.git/",
 }' 

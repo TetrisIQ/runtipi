@@ -11,5 +11,5 @@
     "ms-vscode.vscode-typescript-next",
     "eamodio.gitlens"
   ],
-  "postCreateCommand": "./.devcontainer/createStateSettings.sh > state/settings.json"
+  "postCreateCommand": "./.devcontainer/createStateSettings.sh > state/settings.json && npm i -g pnpm && pnpm i"
 }

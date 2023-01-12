@@ -16,6 +16,6 @@
 		"ms-vscode.vscode-typescript-next",
 		"eamodio.gitlens"
 	],
-  "postCreateCommand": "echo { 'appsRepoUrl': 'https://github.com/meienberger/runtipi-appstore.git',} > runtipi/state/settings.json"
+  "postCreateCommand": "echo { 'appsRepoUrl': 'https://github.com/meienberger/runtipi-appstore.git',} > state/settings.json"
   
 }

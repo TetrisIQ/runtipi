@@ -11,5 +11,5 @@
     "ms-vscode.vscode-typescript-next",
     "waderyan.gitblame"
   ],
-  "postCreateCommand": "./postCreateCommand.sh"
+  "postCreateCommand": "./.devcontainer/postCreateCommand.sh"
 }
